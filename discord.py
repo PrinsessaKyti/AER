@@ -67,4 +67,4 @@ async def leaderboard(ctx):
         await ctx.send(leaderboard_message)
 
 # Run the bot
-bot.run('YOUR_DISCORD_BOT_TOKEN')
+bot.run('MTI5MTU0ODczNzIwNTk2MDc5NA.GJnfO2.lnPQV-HA0rl3ls0GP5rK3zZXNLAVhz6gnD9WHs')
